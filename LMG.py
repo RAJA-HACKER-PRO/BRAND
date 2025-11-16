@@ -7,4 +7,5 @@ if arch == "32bit":
 else:
     from LMG_64bit import approval
 
-approval()
+
+main()
